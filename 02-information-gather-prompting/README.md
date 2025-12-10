@@ -12,4 +12,5 @@ The only code cells are copied here as well (information-gather-prompting.ipynb)
 * Gemini: information-gather-prompting-gemini.ipynb
 * Anthropic: information-gather-prompting-claude.ipynb
 * Ollama: information-gather-prompting-ollama.ipynb
-    * **The ollama server URL need to be updated in your environment**. 
+    * **The ollama server URL need to be updated in your environment**.
+    * A deployment tutorial is available on [a Medium article: Deploying Ollama on Kubernetes](https://medium.com/dev-genius/deploying-ollama-on-kubernetes-8a79d0192d24).
