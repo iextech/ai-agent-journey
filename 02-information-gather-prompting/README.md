@@ -9,4 +9,4 @@ The URL for the example is https://github.com/langchain-ai/langgraph/blob/main/d
 * Original file (OpenAI): information-gather-prompting.ipynb
 * Gemini: information-gather-prompting-gemini.ipynb
 * Anthropic: information-gather-prompting-claude.ipynb
-* Ollama: information-gather-prompting-llama.ipynb
+* Ollama: information-gather-prompting-ollama.ipynb
