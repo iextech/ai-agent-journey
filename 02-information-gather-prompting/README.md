@@ -10,3 +10,4 @@ The URL for the example is https://github.com/langchain-ai/langgraph/blob/main/d
 * Gemini: information-gather-prompting-gemini.ipynb
 * Anthropic: information-gather-prompting-claude.ipynb
 * Ollama: information-gather-prompting-ollama.ipynb
+    * **The ollama server URL need to be updated in your environment**. 
